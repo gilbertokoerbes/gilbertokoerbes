@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🎏 This is my repository where I save everything I practice in my Computer Science course and professional projects.
+
+🎏 I like networking projects, operating systems and technologies for DevOps and SRE.
+If you find some projects a bit confusing, I can help. Can't wait for your contact.
+
+# 💬See my contacts:
+Discord: GilbertoK.#6973
+E-mail: gilbertokoerbes@gmail.com
+
 <!--
 **gilbertokoerbes/gilbertokoerbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
