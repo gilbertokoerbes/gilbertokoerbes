@@ -7,6 +7,7 @@ If you find some projects a bit confusing, I can help. Can't wait for your conta
 
 # 💬See my contacts:
 Discord: GilbertoK.#6973
+
 E-mail: gilbertokoerbes@gmail.com
 
 <!--
