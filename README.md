@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎏 This is my repository where I save everything I practice in my Computer Science course and professional projects.
+🎏 This is my space where I save some things I practice in my Bachelor of Computer Science and professional projects
 
 🎏 I like networking projects, operating systems and technologies for DevOps and SRE.
 If you find some projects a bit confusing, I can help. Can't wait for your contact.
