@@ -9,7 +9,9 @@
 📫  Se você achar alguns projetos um pouco confusos, posso ajudar. Espero pelo seu contato.
 
 # 💬Veja meus contatos:
+
 Discod: GilbertoK.#6973
+
 Linkedin: https://www.linkedin.com/in/gilbertokoerbes/
 
 
