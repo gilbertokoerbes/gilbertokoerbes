@@ -1,14 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
-🎏 This is my space where I save some things I practice in my Bachelor of Computer Science and professional projects
+🎏 Este é o meu espaço onde guardo algumas coisas que pratico no meu Bacharelado em Ciência da Computação e projetos profissionais
 
-🎏 I like networking projects, operating systems and technologies for DevOps and SRE.
-If you find some projects a bit confusing, I can help. Can't wait for your contact.
+🎏 Gosto de projetos de redes, segurança, sistemas operacionais e tecnologias para DevOps e SRE.
+🔐 Alguns projetos autonomos mantenho como privados. Se tiver interesse em meu perfil, entre em contato e posso enviar um convite para visualização.
 
-# 💬See my contacts:
-Discord: GilbertoK.#6973
+📫  Se você achar alguns projetos um pouco confusos, posso ajudar. Espero pelo seu contato.
 
-E-mail: gilbertokoerbes@gmail.com
+# 💬Veja meus contatos:
+Discod: GilbertoK.#6973
+Linkedin: https://www.linkedin.com/in/gilbertokoerbes/
+
 
 <!--
 **gilbertokoerbes/gilbertokoerbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
