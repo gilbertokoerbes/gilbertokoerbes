@@ -3,6 +3,7 @@
 🎏 Este é o meu espaço onde guardo algumas coisas que pratico no meu Bacharelado em Ciência da Computação e projetos profissionais
 
 🎏 Gosto de projetos de redes, segurança, sistemas operacionais e tecnologias para DevOps e SRE.
+
 🔐 Alguns projetos autonomos mantenho como privados. Se tiver interesse em meu perfil, entre em contato e posso enviar um convite para visualização.
 
 📫  Se você achar alguns projetos um pouco confusos, posso ajudar. Espero pelo seu contato.
